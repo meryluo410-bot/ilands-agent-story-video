@@ -1,0 +1,4 @@
+interface:
+  display_name: "iLands Agent Story Video"
+  short_description: "Turn iLander materials into TikTok stories"
+  default_prompt: "Use $ilands-agent-story-video to turn this iLander public media pack into story concepts, a 20-second script, an iLands-integrated video prompt, poster copy, and a TikTok caption."
